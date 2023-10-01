@@ -4,4 +4,4 @@ for(let i=0;i<array1.length;i++)
 {
     sum+=array1[i]*array1[i];
 }
-console.log("sum of squares:",sum);
+console.log("sum of square:",sum);
